@@ -1,0 +1,2 @@
+Çalıştırırken sorun almamak için Ctrl+Shift+W ile tarayıcıda açın ya da 
+Haber.Web'e sağ tıklayıp görüntüle > tarayıcıda görüntüle yapın. Teşekkürler.
